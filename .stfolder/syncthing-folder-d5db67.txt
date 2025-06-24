@@ -1,0 +1,5 @@
+# This directory is a Syncthing folder marker.
+# Do not delete.
+
+folderID: jobju-ayp6q
+created: 2025-06-19T16:15:13+08:00
